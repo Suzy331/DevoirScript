@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Variables
 SOURCE="/home/emttyconcept/Bureau/tree"
 DESTINATION="/fedoraserver"
 DATE=$(date +"%Y-%m-%d")
