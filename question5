@@ -1,0 +1,4 @@
+Sauvegardes différentielles à 2h du matin : À cette heure-là, l'activité des utilisateurs est généralement minimale, ce qui réduit l'impact sur les performances du système.
+Sauvegarde complète hebdomadaire à 3h du matin : Cela permet de disposer d'une sauvegarde complète à la fin du week-end, tout en évitant les heures de pointe.
+Sauvegarde complète mensuelle à 4h du matin : Cela garantit que les sauvegardes mensuelles ne perturbent pas les opérations quotidiennes, en étant programmées après la sauvegarde hebdomadaire.
+Nettoyage quotidien à 5h du matin : Cela permet de nettoyer les anciennes sauvegardes avant le début d'une nouvelle journée, garantissant ainsi que l'espace disque et les ressources sont gérés efficacement.
